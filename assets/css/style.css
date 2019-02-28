@@ -1,5 +1,32 @@
+body {  margin-top: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+
+
+}
+
+
+#title {  
+        font-size: 60px;
+        text-shadow: 1px 1px 1px #000, 
+        3px 3px 5px blue; 
+        padding-bottom: 10px;
+
+
+
+
+}
+
 p {
-    color: blue;
+    padding-top: 15px; 
+    color: black;
+    font-size: 20px;
+  
+    
+    background-color:	#D8BFD8;
+    text-shadow: 1px 1px 1px #000, 
+                     3px 3px 5px grey; 
+      
 
 
 }
@@ -14,20 +41,18 @@ p {
 }
 
 
-/*div {
-    width: 60px;
-    height: 60px;
-    margin: 5px;
-    float: left;
-    background: green;
-    border: 10px outset;
-    cursor:pointer;
-  } ---*/
+#number-to-guess { font-size: 100px;
 
 
+
+}
+
+
+#wins-text, #losses-text { font-size: 40px;
+
+
+
+}
   
-  #crystal-image1 {
-  
-  }
 
 
